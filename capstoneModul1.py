@@ -99,8 +99,6 @@ def create () :
                     show()
                     print('\n===DATA BERHASIL DITAMBAHKAN===')
                     break
-                # else :
-                #     break
 
 #Function Update
 def update():
